@@ -28,8 +28,6 @@ sections:
           description: |
             für Privatpersonen &  
             individuelle Lebenssituationen
-          design:
-            css_class: "text-2xl font-bold lg:text-3xl xl:text-4xl"
         - statistic: ""
           description: ""
         - statistic: "Business Coaching"
@@ -45,14 +43,20 @@ sections:
   - block: features
     id: features
     content:
-      title: Angebot
+      title: ""
       items:
         - name: Personal Coaching
           icon: star
-          description: Für Privatpersonen & individuelle Lebenssituationen
+          description: In unseren Einzelsitzungen biete ich dir einen vertraulichen Rahmen, um deine Anliegen wie persönliche Weiterentwicklung, Beziehungsfragen, Krisenbewältigung oder die Suche nach mehr Lebensbalance zu klären. Wir konzentrieren uns auf das, was dir wichtig ist – deine Wünsche und Bedürfnisse – und arbeiten mit dem, was du im Hier und Jetzt erlebst und ausdrückst. Gemeinsam beleuchten wir auch unangenehme Aspekte, um herauszufinden, wie sie dich möglicherweise hemmen oder gar blockieren. So gewinnst du ein tieferes Verständnis für deine Situation, entwickelst neue Perspektiven und erweiterst deinen Handlungsspielraum. Ziel ist es, deine Wirksamkeit zu erhöhen und spürbare Fortschritte in deinem Alltag zu erzielen.
         - name: Business Coaching
           icon: star
-          description: Für Fach- und Führungskräfte & Unternehmer
+          description: In einer dynamischen Arbeitswelt ist kontinuierliches Wachstum entscheidend. Mein Business Coaching richtet sich an Fach- und Führungskräfte sowie Unternehmer, die sich beruflich weiterentwickeln und ihr Unternehmen auf das nächste Level bringen möchten.
+          
+          Ein wesentlicher Bestandteil meines Coachings ist die Vertiefung der Selbstreflexion und das Bewusstmachen von inneren Mustern. Dies ermöglicht dir, tiefgreifende Veränderungen vorzunehmen und dein Führungsverhalten nachhaltig zu verbessern. Darüber hinaus unterstütze ich dich dabei, deine individuellen Stärken zu fördern und eine authentische Führungsidentität zu entwickeln. Durch gezielte Übungen und Reflexionen hilfst du dir selbst, innere Klarheit zu gewinnen und deine persönlichen sowie beruflichen Ziele effektiver zu erreichen.
+          
+          Ich arbeite mit einem systemischen Ansatz, der die Wechselwirkungen und Dynamiken in deinem Unternehmen berücksichtigt. Wir betrachten dein Unternehmen als ein komplexes System, in dem jede Veränderung in einem Bereich Auswirkungen auf andere Bereiche hat.
+
+          Gemeinsam analysieren wir die Teamdynamik und entwickeln gezielte Lösungen, um die Wechselwirkungen positiv zu nutzen und deine spezifischen Ziele zu erreichen.
   - block: cta-image-paragraph
     id: about
     content:
