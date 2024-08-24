@@ -32,10 +32,6 @@ sections:
           description: |
             für Fach- und Führungskräfte & 
             Unternehmer
-        - statistic: "Bewegung"
-          description: |
-            für alle, als körperliche Ergänzung  
-            im Coaching-Prozess
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
