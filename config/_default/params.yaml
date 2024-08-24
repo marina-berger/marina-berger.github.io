@@ -36,7 +36,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "logo_klein.png"
+      filename: "logo.svg"
     button:
       enable: true
       text: "Schreib mir"
