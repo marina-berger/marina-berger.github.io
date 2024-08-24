@@ -28,6 +28,8 @@ sections:
           description: |
             für Privatpersonen &  
             individuelle Lebenssituationen
+          design:
+            css_class: "text-2xl font-bold lg:text-3xl xl:text-4xl"
         - statistic: ""
           description: ""
         - statistic: "Business Coaching"
