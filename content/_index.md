@@ -53,9 +53,6 @@ sections:
         - name: Business Coaching
           icon: star
           description: Für Fach- und Führungskräfte & Unternehmer
-        - name: Bewegung
-          icon: star
-          description: Für alle, als körperliche Ergänzung im Coaching-Prozess
   - block: cta-image-paragraph
     id: about
     content:
