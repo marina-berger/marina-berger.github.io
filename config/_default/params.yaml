@@ -39,15 +39,15 @@ header:
       filename: "logo.svg"
     button:
       enable: true
-      text: "Get Started"
-      url: "https://hugoblox.com/templates/"
-    show_search: true
-    show_theme_chooser: true
+      text: "Schreib mir"
+      url: "mailto:hey.marinaberger@gmail.com"
+    show_search: false
+    show_theme_chooser: false
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {year} Marina Berger Coaching'
 
 # Localization
 locale:
