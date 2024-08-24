@@ -72,7 +72,7 @@ sections:
 
             Wenn dies geschieht, wird für mich das Schönste an meiner Arbeit sichtbar. Ich sehe die leuchtenden Augen meiner Klientinnen und Klienten, spüre die Leichtigkeit des Fortschritts und höre begeistert von der neu entdeckten inneren Freiheit und dem inneren Frieden. Diese Momente zeigen mir, wie erfüllend und transformierend der Coaching-Prozess sein kann.<br><br>
           # Upload image to `assets/media/` and reference the filename here
-          image: build-website.png
+          image: about-me.jpeg
           button:
             text: Kurzprofil
             url: https://hugoblox.com/templates
