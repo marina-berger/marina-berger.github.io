@@ -4,17 +4,20 @@
 
 main:
   - name: Home
-    url: /#top
+    url: /#home
     weight: 10
-  - name: Features
-    url: /#features
+  - name: Über mich
+    url: /#about
     weight: 20
-  - name: Solutions
-    url: /#solutions
+  - name: Coaching
+    url: /#coaching
     weight: 30
-  - name: Resources
+  - name: Bewegung
+    url: /#bewegung
     weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+  - name: Netzwerk
+    url: /#netzwerk
+    weight: 50
+  - name: Kontakt
+    url: /#kontakt
+    weight: 60
