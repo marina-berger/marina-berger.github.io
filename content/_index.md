@@ -9,7 +9,7 @@ design:
 
 sections:
   - block: hero
-    id: top
+    id: home
     content:
       title: «Was ist, darf sein. Was sein darf, verändert sich.»
       text: Werner Bock
@@ -24,18 +24,18 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "Personal Coaching"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            für Privatpersonen &  
+            individuelle Lebenssituationen
+        - statistic: "Business Coaching"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
+            für Fach- und Führungskräfte & 
+            Unternehmer
+        - statistic: "Bewegung"
           description: |
-            Discord community  
-            for support
+            für alle, als körperliche Ergänzung  
+            im Coaching-Prozess
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
