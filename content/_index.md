@@ -29,7 +29,7 @@ sections:
             für Privatpersonen &  
             individuelle Lebenssituationen
         - statistic: ""
-          description: |
+          description: ""
         - statistic: "Business Coaching"
           description: |
             für Fach- und Führungskräfte & 
