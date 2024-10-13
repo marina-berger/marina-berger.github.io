@@ -75,12 +75,12 @@ sections:
             text: Kurzprofil
             url: https://hugoblox.com/templates
         - title: Coaching
-          text: Hey. Schön, dass du da bist! Willkommen auf deinem Weg der Selbstentfaltung.
-          feature_icon: bolt
-          features:
-            - "Dedicated support channel"
-            - "3,000+ users on Discord"
-            - "Share your site and get feedback"
+          text: Hey. Schön, dass du da bist! Willkommen auf deinem Weg der Selbstentfaltung.<br><br> Test
+          # feature_icon: bolt
+          # features:
+            # - "Dedicated support channel"
+            # - "3,000+ users on Discord"
+            # - "Share your site and get feedback"
           # Upload image to `assets/media/` and reference the filename here
           image: coffee.jpg
           button:
