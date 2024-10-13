@@ -82,10 +82,10 @@ sections:
             # - "3,000+ users on Discord"
             # - "Share your site and get feedback"
           # Upload image to `assets/media/` and reference the filename here
-          image: coffee.jpg
-          button:
-            text: Join Discord
-            url: https://discord.gg/z8wNYzb
+          image: CoachingProzess2.jpg
+          # button:
+            # text: Join Discord
+            # url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
