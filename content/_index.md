@@ -107,7 +107,7 @@ sections:
       items:
         - title: Bewegung
           text: |
-            **«Der Körper sagt, was Worte nicht ausdrücken können.» Martha Graham<br><br>
+            **«Der Körper sagt, was Worte nicht ausdrücken können.»** Martha Graham<br><br>
             
             In Coaching-Prozessen stoßen wir oft an die Grenzen des Verstandes. Manchmal reichen Worte allein nicht aus, um tiefsitzende Gefühle oder blockierende Muster zu lösen. Es sind die Momente, in denen Gespräche ins Leere laufen oder festgefahrene Denkmuster uns daran hindern, weiterzukommen. Hier ist es wichtig, dass wir den Körper in den Coaching-Prozess einbeziehen. Denn der Körper vergisst nicht.<br><br>
             
@@ -116,6 +116,24 @@ sections:
             Mit körperorientierten Methoden wie Atemtechniken, Achtsamkeitsübungen oder Yoga nutzen wir in Einzelsitzungen die Weisheit deines Körpers, um Blockaden zu lösen. So wird der Körper zum Schlüssel für deine authentische Veränderung und dein Wachstum.<br><br>
           # Upload image to `assets/media/` and reference the filename here
           image: yoga.jpg
+    design:
+      # Section background color (CSS class)
+      css_class: "bg-gray-100 dark:bg-gray-900"
+  - block: cta-image-paragraph
+    id: netzwerk
+    content:
+      items:
+        - title: Netzwerk
+          text: |
+            **Hey. Hier ist mein Netzwerk!**<br><br>
+            
+            Wachstum entsteht durch starke Verbindungen und gegenseitige Unterstützung. Mein Ziel ist es, ein vertrauensvolles Netzwerk aufzubauen, um gemeinsam Herausforderungen zu meistern und nachhaltige Erfolge zu erzielen. Netzwerken bedeutet für mich, langfristige Beziehungen zu pflegen, regelmäßige Treffen zu fördern und kontinuierlich im Austausch zu stehen, um voneinander zu lernen und zu wachsen.<br><br>
+            
+            Zur Erweiterung meiner Expertise bilde ich mich an renommierten Schulen fort und nehme regelmäßig an Supervisionen teil. Dadurch erhalte ich wertvolle Impulse und neue Perspektiven. Besonders wichtig ist mir der Austausch mit den Kolleginnen und Kollegen des Hephaistos Coaching Zentrums München, die sich durch einen reflektierten und praxisnahen Ansatz auszeichnen. Das hilft mir, aktuelle Herausforderungen besser zu verstehen und innovative Lösungen zu entwickeln.<br><br>
+            
+            Denn Lernen hört nie auf! Die kontinuierliche Weiterentwicklung meiner Fähigkeiten ist entscheidend, um optimal auf individuelle Bedürfnisse einzugehen und effektive Veränderungsprozesse zu fördern.<br><br>
+          # Upload image to `assets/media/` and reference the filename here
+          image: network.jpg
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
