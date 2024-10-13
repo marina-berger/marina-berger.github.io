@@ -64,13 +64,11 @@ sections:
           text: |
             **Hey. Ich bin Marina!**<br><br>
 
-            Seit über zehn Jahren unterstütze ich Menschen und Unternehmen als Berater und Coach. Für meine Klientinnen und Klienten bin ich ein waches, feinfühliges und sorgfältiges Gegenüber.<br><br>
+            Seit über zehn Jahren unterstütze ich Menschen und Unternehmen als Berater und Coach.<br><br>
 
-            Meine Arbeit ist theoretisch fundiert und gleichzeitig konkret und anwendbar. Sie basiert auf dem Verständnis, dass alle Antworten, die du suchst, bereits in dir angelegt sind. Um diesen inneren Schatz zu heben, bedarf es einer Begleitung, die absichtslos, wertfrei, offen und individuell ist. All das biete ich dir als Coach.<br><br>
+            In meiner Arbeit lege ich großen Wert auf Empathie, Genauigkeit und eine fundierte, praxisorientierte Herangehensweise. Ich glaube daran, dass die Antworten auf deine Fragen bereits in dir selbst liegen. Mein Ansatz besteht darin, dir durch eine wertfreie, offene und individuelle Begleitung zu helfen, diesen inneren Schatz zu heben und zu nutzen. Indem du lernst, deine Bedürfnisse achtsam wahrzunehmen und danach zu handeln, stärkst du deine Selbstverantwortung.<br><br>
 
-            Meine Erfahrung ist - wenn Menschen wieder lernen, ihre Bedürfnisse achtsam wahrzunehmen, ernst zu nehmen und danach zu handeln, stärkt das die Selbstverantwortung für das eigene Leben.<br><br>
-
-            Wenn dies geschieht, wird für mich das Schönste an meiner Arbeit sichtbar. Ich sehe die leuchtenden Augen meiner Klientinnen und Klienten, spüre die Leichtigkeit des Fortschritts und höre begeistert von der neu entdeckten inneren Freiheit und dem inneren Frieden. Diese Momente zeigen mir, wie erfüllend und transformierend der Coaching-Prozess sein kann.<br><br>
+            Wenn das passiert, wird für mich der schönste Teil meiner Arbeit sichtbar: Ich sehe die strahlenden Augen meiner Klientinnen und Klienten und erkenne ihre neu gewonnene innere Freiheit. Diese Momente zeigen mir, wie erfüllend und transformierend der Coaching-Prozess sein kann.<br><br>
           # Upload image to `assets/media/` and reference the filename here
           image: about-me.jpeg
           button:
