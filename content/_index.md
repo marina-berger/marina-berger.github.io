@@ -60,19 +60,20 @@ sections:
     id: about
     content:
       items:
-        - title: 
-        - title: Coaching
-          text: Hey. Schön, dass du da bist! Willkommen auf deinem Weg der Selbstentfaltung.<br><br> Als Coach ist es meine Aufgabe, Menschen auf ihrem Weg der persönlichen und beruflichen Entwicklung zu begleiten. Ein effektives Coaching setzt voraus, dass ich meine Klientinnen und Klienten ganzheitlich wahrnehme – mit ihrem Wesen, ihren individuellen Erfahrungen, ihren Stärken, ihren nonverbalen Signalen und ihren Herausforderungen. Auf dieser Basis kann ich kritisch hinterfragen, meine Irritationen benennen und gleichzeitig einfühlsam und zugewandt bleiben. Meine Erfahrung zeigt, dass jeder Mensch die notwendigen Antworten auf seine Herausforderungen bereits in sich trägt. Oft braucht es aber den gezielten Dialog und ein unterstützendes Gegenüber, um diese Antworten ans Licht zu bringen.<br><br> Meine Arbeit basiert auf der Metatheorie der Veränderung des Hephaistos Coaching Zentrums München. Diese theoretische Grundlage ermöglicht es mir, systemische und psychodynamische Methoden führender Schulen zu kombinieren und so einen effektiven Coaching-Ansatz zu bieten.
-          # feature_icon: bolt
-          # features:
-            # - "Dedicated support channel"
-            # - "3,000+ users on Discord"
-            # - "Share your site and get feedback"
+        - title: Über mich
+          text: |
+            **Hey. Ich bin Marina!**<br><br>
+            
+            Seit über zehn Jahren unterstütze ich Menschen und Unternehmen als Berater und Coach.<br><br>
+            
+            In meiner Arbeit lege ich großen Wert auf Empathie, Genauigkeit und eine fundierte, praxisorientierte Herangehensweise. Ich glaube daran, dass die Antworten auf deine Fragen bereits in dir selbst liegen. Mein Ansatz besteht darin, dir durch eine wertfreie, offene und individuelle Begleitung zu helfen, diesen inneren Schatz zu heben und zu nutzen. Indem du lernst, deine Bedürfnisse achtsam wahrzunehmen und danach zu handeln, stärkst du deine Selbstverantwortung.<br><br>
+            
+            Wenn das passiert, wird für mich der schönste Teil meiner Arbeit sichtbar: Ich sehe die strahlenden Augen meiner Klientinnen und Klienten und erkenne ihre neu gewonnene innere Freiheit. Diese Momente zeigen mir, wie erfüllend und transformierend der Coaching-Prozess sein kann.<br><br>
           # Upload image to `assets/media/` and reference the filename here
-          image: prozess.jpg
-          # button:
-            # text: Join Discord
-            # url: https://discord.gg/z8wNYzb
+          image: about-me.jpeg
+          button:
+            text: Kurzprofil
+            url: https://hugoblox.com/templates
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
