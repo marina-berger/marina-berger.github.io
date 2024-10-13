@@ -73,7 +73,7 @@ sections:
           image: about-me.jpeg
           button:
             text: Kurzprofil
-            url: https://hugoblox.com/templates
+            url: https://drive.google.com/file/d/1jpemMOhcvszfagvB-o5xlkzFgHsB0A0g/view?usp=share_link
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
