@@ -56,6 +56,7 @@ sections:
             Ein wesentlicher Bestandteil meines Coachings ist die Vertiefung der Selbstreflexion und das Bewusstmachen von inneren Mustern. Dies ermöglicht dir, tiefgreifende Veränderungen vorzunehmen und dein Führungsverhalten nachhaltig zu verbessern. Darüber hinaus unterstütze ich dich dabei, deine individuellen Stärken zu fördern und eine authentische Führungsidentität zu entwickeln. Durch gezielte Übungen und Reflexionen hilfst du dir selbst, innere Klarheit zu gewinnen und deine persönlichen sowie beruflichen Ziele effektiver zu erreichen.
             Ich arbeite mit einem systemischen Ansatz, der die Wechselwirkungen und Dynamiken in deinem Unternehmen berücksichtigt. Wir betrachten dein Unternehmen als ein komplexes System, in dem jede Veränderung in einem Bereich Auswirkungen auf andere Bereiche hat.
             Gemeinsam analysieren wir die Teamdynamik und entwickeln gezielte Lösungen, um die Wechselwirkungen positiv zu nutzen und deine spezifischen Ziele zu erreichen.
+            
   - block: cta-image-paragraph
     id: about
     content:
