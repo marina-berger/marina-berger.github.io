@@ -137,27 +137,13 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
-  - block: testimonials
-    content:
-      title: ""
-      text: ""
-      items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
-    design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
+      title: Schön, dass du dich meldest!
+      text: Gerne erkläre ich dir in einem unverbindlichen Erstgespräch meine Arbeitsweise und den Ablauf eines Coachings.<br><br> Du kannst mich gerne telefonisch oder per E-Mail kontaktieren, in der Regel antworte ich innerhalb von drei Werktagen.<br><br> Ich freue mich darauf, dich kennenzulernen!
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Schreib mir
+        url: mailto:hey.marinaberger@gmail.com
     design:
       card:
         # Card background color (CSS class)
