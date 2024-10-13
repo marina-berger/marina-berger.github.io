@@ -74,6 +74,18 @@ sections:
           button:
             text: Kurzprofil
             url: https://hugoblox.com/templates
+        # - title: Coaching
+        #  text: Hey. Schön, dass du da bist! Willkommen auf deinem Weg der Selbstentfaltung.<br><br> Als Coach ist es meine Aufgabe, Menschen auf ihrem Weg der persönlichen und beruflichen Entwicklung zu begleiten. Ein effektives Coaching setzt voraus, dass ich meine Klientinnen und Klienten ganzheitlich wahrnehme – mit ihrem Wesen, ihren individuellen Erfahrungen, ihren Stärken, ihren nonverbalen Signalen und ihren Herausforderungen. Auf dieser Basis kann ich kritisch hinterfragen, meine Irritationen benennen und gleichzeitig einfühlsam und zugewandt bleiben. Meine Erfahrung zeigt, dass jeder Mensch die notwendigen Antworten auf seine Herausforderungen bereits in sich trägt. Oft braucht es aber den gezielten Dialog und ein unterstützendes Gegenüber, um diese Antworten ans Licht zu bringen.<br><br> Meine Arbeit basiert auf der Metatheorie der Veränderung des Hephaistos Coaching Zentrums München. Diese theoretische Grundlage ermöglicht es mir, systemische und psychodynamische Methoden führender Schulen zu kombinieren und so einen effektiven Coaching-Ansatz zu bieten.
+          # feature_icon: bolt
+          # features:
+            # - "Dedicated support channel"
+            # - "3,000+ users on Discord"
+            # - "Share your site and get feedback"
+          # Upload image to `assets/media/` and reference the filename here
+          # image: prozess.jpg
+          # button:
+            # text: Join Discord
+            # url: https://discord.gg/z8wNYzb
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
