@@ -61,14 +61,7 @@ sections:
     content:
       items:
         - title: Über mich
-          text: |
-            **Hey. Ich bin Marina!**<br><br>
-
-            Seit über zehn Jahren unterstütze ich Menschen und Unternehmen als Berater und Coach.<br><br>
-
-            In meiner Arbeit lege ich großen Wert auf Empathie, Genauigkeit und eine fundierte, praxisorientierte Herangehensweise. Ich glaube daran, dass die Antworten auf deine Fragen bereits in dir selbst liegen. Mein Ansatz besteht darin, dir durch eine wertfreie, offene und individuelle Begleitung zu helfen, diesen inneren Schatz zu heben und zu nutzen. Indem du lernst, deine Bedürfnisse achtsam wahrzunehmen und danach zu handeln, stärkst du deine Selbstverantwortung.<br><br>
-            
-            Wenn das passiert, wird für mich der schönste Teil meiner Arbeit sichtbar: Ich sehe die strahlenden Augen meiner Klientinnen und Klienten und erkenne ihre neu gewonnene innere Freiheit. Diese Momente zeigen mir, wie erfüllend und transformierend der Coaching-Prozess sein kann.<br><br>
+          text: Hey. Ich bin Marina!<br><br> Seit über zehn Jahren unterstütze ich Menschen und Unternehmen als Berater und Coach.<br><br> In meiner Arbeit lege ich großen Wert auf Empathie, Genauigkeit und eine fundierte, praxisorientierte Herangehensweise. Ich glaube daran, dass die Antworten auf deine Fragen bereits in dir selbst liegen. Mein Ansatz besteht darin, dir durch eine wertfreie, offene und individuelle Begleitung zu helfen, diesen inneren Schatz zu heben und zu nutzen. Indem du lernst, deine Bedürfnisse achtsam wahrzunehmen und danach zu handeln, stärkst du deine Selbstverantwortung.<br><br> Wenn das passiert, wird für mich der schönste Teil meiner Arbeit sichtbar: Ich sehe die strahlenden Augen meiner Klientinnen und Klienten und erkenne ihre neu gewonnene innere Freiheit. Diese Momente zeigen mir, wie erfüllend und transformierend der Coaching-Prozess sein kann.
           # Upload image to `assets/media/` and reference the filename here
           image: about-me.jpeg
           button:
