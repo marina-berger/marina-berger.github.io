@@ -76,6 +76,7 @@ sections:
             url: https://hugoblox.com/templates
         - title: Coaching
           text: Hey. Schön, dass du da bist! Willkommen auf deinem Weg der Selbstentfaltung.
+          
           feature_icon: bolt
           features:
             - "Dedicated support channel"
