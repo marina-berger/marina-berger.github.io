@@ -48,14 +48,19 @@ sections:
         - name: Personal Coaching
           icon: star
           description: |
-            In unseren Einzelsitzungen biete ich dir einen vertraulichen Rahmen, um deine Anliegen wie persönliche Weiterentwicklung, Beziehungsfragen, Krisenbewältigung oder die Suche nach mehr Lebensbalance zu klären. Wir konzentrieren uns auf das, was dir wichtig ist – deine Wünsche und Bedürfnisse – und arbeiten mit dem, was du im Hier und Jetzt erlebst und ausdrückst. Gemeinsam beleuchten wir auch unangenehme Aspekte, um herauszufinden, wie sie dich möglicherweise hemmen oder gar blockieren. So gewinnst du ein tieferes Verständnis für deine Situation, entwickelst neue Perspektiven und erweiterst deinen Handlungsspielraum. Ziel ist es, deine Wirksamkeit zu erhöhen und spürbare Fortschritte in deinem Alltag zu erzielen.
+            Immer mehr Menschen berichten, wie ihnen eine gezielte individuelle Unterstützung half, ihre privaten und beruflichen Chancen zu nutzen und ein erfülltes, selbstbestimmtes Leben zu führen.<br><br>
+            
+            Mein Personal Coaching bietet dir einen vertraulichen Rahmen, um dein Anliegen – sei es persönliche Weiterentwicklung, Beziehungsfragen, Krisenbewältigung oder Lebensbalance – gezielt zu klären.<br><br>
+            
+            Wir konzentrieren uns auf das, was dir wichtig ist – deine Wünsche und Bedürfnisse – und arbeiten mit dem, was du im Hier und Jetzt erlebst und ausdrückst. Gemeinsam beleuchten wir auch herausfordernde Aspekte, um herauszufinden, wie sie dich möglicherweise hemmen oder blockieren. So gewinnst du Klarheit über deine Situation und entwickelst neue Perspektiven, die deinen Handlungsspielraum erweitern und dich spürbare Fortschritte im Alltag erleben lassen.
         - name: Business Coaching
           icon: star
           description: |
-            In einer dynamischen Arbeitswelt ist kontinuierliches Wachstum entscheidend. Mein Business Coaching richtet sich an Fach- und Führungskräfte sowie Unternehmer, die sich beruflich weiterentwickeln und ihr Unternehmen auf das nächste Level bringen möchten.
-            Ein wesentlicher Bestandteil meines Coachings ist die Vertiefung der Selbstreflexion und das Bewusstmachen von inneren Mustern. Dies ermöglicht dir, tiefgreifende Veränderungen vorzunehmen und dein Führungsverhalten nachhaltig zu verbessern. Darüber hinaus unterstütze ich dich dabei, deine individuellen Stärken zu fördern und eine authentische Führungsidentität zu entwickeln. Durch gezielte Übungen und Reflexionen hilfst du dir selbst, innere Klarheit zu gewinnen und deine persönlichen sowie beruflichen Ziele effektiver zu erreichen.
-            Ich arbeite mit einem systemischen Ansatz, der die Wechselwirkungen und Dynamiken in deinem Unternehmen berücksichtigt. Wir betrachten dein Unternehmen als ein komplexes System, in dem jede Veränderung in einem Bereich Auswirkungen auf andere Bereiche hat.
-            Gemeinsam analysieren wir die Teamdynamik und entwickeln gezielte Lösungen, um die Wechselwirkungen positiv zu nutzen und deine spezifischen Ziele zu erreichen.
+            In einer dynamischen Arbeitswelt ist kontinuierliche Weiterentwicklung unerlässlich. Mein Business Coaching richtet sich an Fach- und Führungskräfte sowie Unternehmerinnen und Unternehmer, die sich beruflich weiterentwickeln und ihr Unternehmen auf das nächste Level bringen möchten.<br><br>
+            
+            Im Fokus steht die Selbstreflexion, um innere Muster zu erkennen und tiefgreifende Veränderungen zu bewirken. Ich unterstütze dich dabei, deine Stärken zu fördern und eine authentische Führungsidentität zu entwickeln. Mit gezielten Übungen gewinnst du innere Klarheit und erreichst deine Ziele effizienter.<br><br>
+            
+            Ich arbeite mit einem systemischen Ansatz, der die Wechselwirkungen und Dynamiken in deinem Unternehmen umfassend berücksichtigt. Auf diese Weise analysieren wir die innerbetrieblichen Prozesse und entwickeln darauf basierend Lösungen, die positive Veränderungen fördern.
   - block: cta-image-paragraph
     id: about
     content:
