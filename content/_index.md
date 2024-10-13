@@ -89,7 +89,7 @@ sections:
             
             Meine Arbeit basiert auf der Metatheorie der Veränderung des Hephaistos Coaching Zentrums München. Diese theoretische Grundlage ermöglicht es mir, systemische und psychodynamische Methoden führender Schulen zu kombinieren und so einen effektiven Coaching-Ansatz zu bieten.<br><br>
           # Upload image to `assets/media/` and reference the filename here
-          image: prozess.jpeg
+          image: prozess.jpg
           button:
             text: Kurzprofil
             url: https://hugoblox.com/templates
