@@ -57,7 +57,7 @@ sections:
           image: about-me.jpeg
           button:
             text: Kurzprofil
-            url: https://drive.google.com/file/d/1jpemMOhcvszfagvB-o5xlkzFgHsB0A0g/view?usp=share_link
+            url: https://drive.google.com/file/d/1WhV_CgYvuU3_PBB62VICofMgFtbJ-iOx/view?usp=sharing
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
@@ -75,7 +75,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: prozess.png
         - title: Personal Coaching
-          text: Immer mehr Menschen berichten, wie ihnen eine gezielte individuelle Unterstützung half, ihre privaten und beruflichen Chancen zu nutzen und ein erfülltes, selbstbestimmtes Leben zu führen.<br>br> Mein Personal Coaching bietet dir einen vertraulichen Rahmen, um dein Anliegen – sei es persönliche Weiterentwicklung, Beziehungsfragen, Krisenbewältigung oder Lebensbalance – gezielt zu klären.<br><br> Wir konzentrieren uns auf das, was dir wichtig ist – deine Wünsche und Bedürfnisse – und arbeiten mit dem, was du im Hier und Jetzt erlebst und ausdrückst. Gemeinsam beleuchten wir auch herausfordernde Aspekte, um herauszufinden, wie sie dich möglicherweise hemmen oder blockieren. So gewinnst du Klarheit über deine Situation und entwickelst neue Perspektiven, die deinen Handlungsspielraum erweitern und dich spürbare Fortschritte im Alltag erleben lassen.<br><br>
+          text: Immer mehr Menschen berichten, wie ihnen eine gezielte individuelle Unterstützung half, ihre privaten und beruflichen Chancen zu nutzen und ein erfülltes, selbstbestimmtes Leben zu führen.<br><br> Mein Personal Coaching bietet dir einen vertraulichen Rahmen, um dein Anliegen – sei es persönliche Weiterentwicklung, Beziehungsfragen, Krisenbewältigung oder Lebensbalance – gezielt zu klären.<br><br> Wir konzentrieren uns auf das, was dir wichtig ist – deine Wünsche und Bedürfnisse – und arbeiten mit dem, was du im Hier und Jetzt erlebst und ausdrückst. Gemeinsam beleuchten wir auch herausfordernde Aspekte, um herauszufinden, wie sie dich möglicherweise hemmen oder blockieren. So gewinnst du Klarheit über deine Situation und entwickelst neue Perspektiven, die deinen Handlungsspielraum erweitern und dich spürbare Fortschritte im Alltag erleben lassen.<br><br>
           # feature_icon: bolt
           # features:
             # - "Dedicated support channel"
@@ -115,7 +115,7 @@ sections:
             
             Mit körperorientierten Methoden wie Atemtechniken, Achtsamkeitsübungen oder Yoga nutzen wir in Einzelsitzungen die Weisheit deines Körpers, um Blockaden zu lösen. So wird der Körper zum Schlüssel für deine authentische Veränderung und dein Wachstum.<br><br>
           # Upload image to `assets/media/` and reference the filename here
-          image: yoga.jpg
+          image: bewegung.png
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
