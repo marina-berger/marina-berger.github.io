@@ -33,13 +33,13 @@ sections:
         - statistic: "Business Coaching"
           description: |
             für Fach- und Führungskräfte & 
-            Unternehmer
+            Unternehmerinnen und Unternehmer
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
       # Reduce spacing
       spacing:
-        padding: ["1rem", 0, "1rem", 0]
+        padding: ["0.5rem", 0, "0.5rem", 0]
   - block: cta-image-paragraph
     id: about
     content:
