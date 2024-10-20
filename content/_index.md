@@ -26,14 +26,12 @@ sections:
       items:
         - statistic: "Personal Coaching"
           description: |
-            für Privatpersonen &  
-            individuelle Lebenssituationen
+            für Privatpersonen
         - statistic: ""
           description: ""
         - statistic: "Business Coaching"
           description: |
-            für Fach- und Führungskräfte & 
-            Unternehmerinnen und Unternehmer
+            für Fach- und Führungskräfte
     design:
       # Section background color (CSS class)
       css_class: "bg-white"
