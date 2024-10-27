@@ -24,13 +24,14 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: ""
-          description: ""
-        - statistic: "Coaching"
+        - statistic: "Personal Coaching"
           description: |
-            für Privatpersonen, Fach- und Führungskräfte
+            für Privatpersonen
         - statistic: ""
           description: ""
+        - statistic: "Business Coaching"
+          description: |
+            für Fach- und Führungskräfte
     design:
       # Section background color (CSS class)
       css_class: "bg-white"
