@@ -52,7 +52,7 @@ sections:
             
             Wenn das passiert, wird für mich der schönste Teil meiner Arbeit sichtbar: Ich sehe die strahlenden Augen meiner Klientinnen und Klienten und erkenne ihre neu gewonnene innere Freiheit. Diese Momente zeigen mir, wie erfüllend und transformierend der Coaching-Prozess sein kann.<br><br>
           # Upload image to `assets/media/` and reference the filename here
-          image: about-me.jpeg
+          image: about-me-a.jpeg
           button:
             text: Kurzprofil
             url: https://drive.google.com/file/d/1WhV_CgYvuU3_PBB62VICofMgFtbJ-iOx/view?usp=sharing
