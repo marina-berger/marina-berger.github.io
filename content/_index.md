@@ -32,10 +32,11 @@ sections:
             für Fach- und Führungskräfte
     design:
       # Section background color (CSS class)
-      css_class: "bg-white inline-grid grid-cols-2 gap-8 text-center p-4"
+      css_class: "bg-white inline-grid gap-8 text-center p-4"
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
+      style: "grid-template-columns: 1fr 1fr;"
   - block: cta-image-paragraph
     id: about
     content:
