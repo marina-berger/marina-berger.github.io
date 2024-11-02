@@ -32,7 +32,7 @@ sections:
             für Fach- und Führungskräfte
     design:
       # Section background color (CSS class)
-      css_class: "bg-white grid grid-cols-2 row-gap-8"
+      css_class: "bg-white grid grid-cols-2 gap-8 text-center p-4"
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
