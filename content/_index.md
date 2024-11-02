@@ -27,13 +27,11 @@ sections:
         - statistic: "Personal Coaching"
           description: |
             für Privatpersonen
-          style: "font-size: 0.5rem;"
         - statistic: ""
           description: ""
         - statistic: "Business Coaching"
           description: |
             für Fach- und Führungskräfte
-          style: "font-size: 1.5rem;"
     design:
       # Section background color (CSS class)
       css_class: "bg-white"
