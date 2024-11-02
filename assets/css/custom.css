@@ -1,0 +1,4 @@
+/* Custom CSS to override .grid-cols-3 for the specific section */
+#section-stats .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important; /* Forces a two-column layout */
+}
