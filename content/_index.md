@@ -27,8 +27,6 @@ sections:
         - statistic: "Personal Coaching"
           description: |
             für Privatpersonen
-        - statistic: ""
-          description: ""
         - statistic: "Business Coaching"
           description: |
             für Fach- und Führungskräfte
