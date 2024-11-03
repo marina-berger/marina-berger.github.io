@@ -11,7 +11,7 @@ sections:
   - block: hero
     id: home
     content:
-      title: «Was ist, darf sein. Was sein darf, verändert sich.»
+      title: «Was ist, darf sein. <br> Was sein darf, verändert sich.»
       text: Werner Bock
     design:
       spacing:
