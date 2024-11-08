@@ -11,6 +11,11 @@ main:
     weight: 20
   - name: Coaching
     url: /#coaching
+    identifier: coaching
+    weight: 30
+  - name: Personal Coaching
+    url: /#pcoaching
+    parent: coaching
     weight: 30
   - name: Bewegung
     url: /#bewegung
