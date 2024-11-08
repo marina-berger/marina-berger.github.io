@@ -83,8 +83,7 @@ sections:
           # button:
             # text: Join Discord
             # url: https://discord.gg/z8wNYzb
-        - title: Business Coaching
-          id: bcoaching
+        - title: Business Coaching <a id="bcoaching"></a>
           text: In einer dynamischen Arbeitswelt ist kontinuierliche Weiterentwicklung unerlässlich. Mein Business Coaching richtet sich an Fach- und Führungskräfte sowie Unternehmerinnen und Unternehmer, die sich beruflich weiterentwickeln und ihr Unternehmen auf das nächste Level bringen möchten.<br><br> Im Fokus steht die Selbstreflexion, um innere Muster zu erkennen und tiefgreifende Veränderungen zu bewirken. Ich unterstütze dich dabei, deine Stärken zu fördern und eine authentische Führungsidentität zu entwickeln. Mit gezielten Übungen gewinnst du innere Klarheit und erreichst deine Ziele effizienter.<br><br> Ich arbeite mit einem systemischen Ansatz, der die Wechselwirkungen und Dynamiken in deinem Unternehmen umfassend berücksichtigt. Auf diese Weise analysieren wir die innerbetrieblichen Prozesse und entwickeln darauf basierend Lösungen, die positive Veränderungen fördern.<br><br>
           # feature_icon: bolt
           # features:
