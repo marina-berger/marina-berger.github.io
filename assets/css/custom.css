@@ -3,7 +3,8 @@
     grid-template-columns: repeat(2, minmax(0, 1fr)) !important; /* Forces a two-column layout */
 }
 
-/* Ensure main nav links are clickable even if they contain submenus */
-.nav-menu > .nav-item > a {
-    pointer-events: auto;
+/* Ensure nav-link behaves normally on hover and is clickable */
+.nav-menu .nav-item > .nav-link:hover {
+    pointer-events: auto !important;
+    cursor: pointer;
 }
