@@ -64,7 +64,7 @@ sections:
       items:
         - title: Coaching
           text: |
-            **Hey. Schön, dass du da bist! Willkommen auf deinem Weg der Selbstentfaltung.**<br><br>
+            **Hey. Schön, dass du da bist! <br> Willkommen auf deinem Weg der Selbstentfaltung.**<br><br>
             
             Als Coach ist es meine Aufgabe, Menschen auf ihrem Weg der persönlichen und beruflichen Entwicklung zu begleiten. Ein effektives Coaching setzt voraus, dass ich meine Klientinnen und Klienten ganzheitlich wahrnehme – mit ihrem Wesen, ihren individuellen Erfahrungen, ihren Stärken, ihren nonverbalen Signalen und ihren Herausforderungen. Auf dieser Basis kann ich kritisch hinterfragen, meine Irritationen benennen und gleichzeitig einfühlsam und zugewandt bleiben. Meine Erfahrung zeigt, dass jeder Mensch die notwendigen Antworten auf seine Herausforderungen bereits in sich trägt. Oft braucht es aber den gezielten Dialog und ein unterstützendes Gegenüber, um diese Antworten ans Licht zu bringen.<br><br>
             
