@@ -79,7 +79,7 @@ sections:
             # - "3,000+ users on Discord"
             # - "Share your site and get feedback"
           # Upload image to `assets/media/` and reference the filename here
-          image: personal.png <a id="pcoaching"></a>
+          image: personal.png
           # button:
             # text: Join Discord
             # url: https://discord.gg/z8wNYzb
@@ -91,7 +91,7 @@ sections:
             # - "3,000+ users on Discord"
             # - "Share your site and get feedback"
           # Upload image to `assets/media/` and reference the filename here
-          image: business.png <a id="bcoaching"></a>
+          image: business.png
           # button:
             # text: Join Discord
             # url: https://discord.gg/z8wNYzb
