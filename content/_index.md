@@ -129,6 +129,9 @@ sections:
             Denn Lernen hört nie auf! Die kontinuierliche Weiterentwicklung meiner Fähigkeiten ist entscheidend, um optimal auf individuelle Bedürfnisse einzugehen und effektive Veränderungsprozesse zu fördern.<br><br>
           # Upload image to `assets/media/` and reference the filename here
           image: meta-theorie.png
+          button:
+            text: Metatheorie
+            url: https://metatheorie-der-veraenderung.info/
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
