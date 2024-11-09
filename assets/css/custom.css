@@ -2,9 +2,3 @@
 #section-stats .grid {
     grid-template-columns: repeat(2, minmax(0, 1fr)) !important; /* Forces a two-column layout */
 }
-
-#netzwerk p {
-    @apply font-light text-gray-500 md:text-lg dark:text-gray-400;
-    margin-bottom: 1.5rem; /* Equivalent to mb-6 */
-  }
-  
