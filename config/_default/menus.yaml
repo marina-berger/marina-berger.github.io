@@ -10,8 +10,21 @@ main:
     url: /#about
     weight: 20
   - name: Coaching
+    identifier: coaching
     url: /#coaching
     weight: 30
+  - name: Allgemein
+    parent: coaching
+    url: /#coaching
+    weight: 31
+  - name: Personal Coaching
+    parent: coaching
+    url: /#coaching
+    weight: 32
+  - name: Business Coaching
+    parent: coaching
+    url: /#coaching
+    weight: 33
   - name: Bewegung
     url: /#bewegung
     weight: 40
