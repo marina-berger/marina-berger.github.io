@@ -54,7 +54,7 @@ sections:
           image: about-me-a.jpeg
           button:
             text: Kurzprofil
-            url: https://drive.google.com/file/d/1WhV_CgYvuU3_PBB62VICofMgFtbJ-iOx/view?usp=sharing
+            url: https://drive.google.com/file/d/1h0QWRFzTmh8a2-kVN-H87skyirg6tMM-/view?usp=share_link
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
