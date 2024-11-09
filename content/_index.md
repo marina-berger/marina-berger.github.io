@@ -120,7 +120,7 @@ sections:
       items:
         - title: Netzwerk
           text: |
-            **Hey. Hier ist mein Netzwerk!**<br><br>
+            <p>**Hey. Hier ist mein Netzwerk!**<br><br></p>
             
             <p class="mb-6 font-light md:text-lg">
             Wachstum entsteht durch starke Verbindungen und gegenseitige Unterstützung. Mein Ziel ist es, ein vertrauensvolles Netzwerk aufzubauen, um gemeinsam Herausforderungen zu meistern und nachhaltige Erfolge zu erzielen. Netzwerken bedeutet für mich, langfristige Beziehungen zu pflegen, regelmäßige Treffen zu fördern und kontinuierlich im Austausch zu stehen, um voneinander zu lernen und zu wachsen.<br><br></p>
