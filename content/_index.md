@@ -104,11 +104,11 @@ sections:
       items:
         - title: Bewegung
           text: |
-            In Coaching-Prozessen stoßen wir oft an die Grenzen des Verstandes. Manchmal reichen Worte allein nicht aus, um tiefsitzende Gefühle oder blockierende Muster zu lösen. Es sind die Momente, in denen Gespräche ins Leere laufen oder festgefahrene Denkmuster uns daran hindern, weiterzukommen. Hier ist es wichtig, dass wir den Körper in den Coaching-Prozess einbeziehen. Denn der Körper vergisst nicht.<br><br>
+            <p class="mb-6 font-light md:text-lg">In Coaching-Prozessen stoßen wir oft an die Grenzen des Verstandes. Manchmal reichen Worte allein nicht aus, um tiefsitzende Gefühle oder blockierende Muster zu lösen. Es sind die Momente, in denen Gespräche ins Leere laufen oder festgefahrene Denkmuster uns daran hindern, weiterzukommen. Hier ist es wichtig, dass wir den Körper in den Coaching-Prozess einbeziehen. Denn der Körper vergisst nicht.</p><br>
             
-            Unser Körper trägt unausgesprochene Emotionen, Erinnerungen und Erfahrungen in sich. Er speichert, was wir erlebt haben, auch wenn unser Verstand es längst verdrängt hat. Wenn wir auf die Signale unseres Körpers hören, eröffnen sich oft neue Wege. Der Körper erlaubt uns dann, das auszudrücken, was wir fühlen, und das zunächst Unaussprechliche nimmt Gestalt an.<br><br>
+            <p class="mb-6 font-light md:text-lg">Unser Körper trägt unausgesprochene Emotionen, Erinnerungen und Erfahrungen in sich. Er speichert, was wir erlebt haben, auch wenn unser Verstand es längst verdrängt hat. Wenn wir auf die Signale unseres Körpers hören, eröffnen sich oft neue Wege. Der Körper erlaubt uns dann, das auszudrücken, was wir fühlen, und das zunächst Unaussprechliche nimmt Gestalt an.</p><br>
             
-            Mit körperorientierten Methoden wie Atemtechniken, Achtsamkeitsübungen oder Yoga nutzen wir in Einzelsitzungen die Weisheit deines Körpers, um Blockaden zu lösen. So wird der Körper zum Schlüssel für deine authentische Veränderung und dein Wachstum.<br><br>
+            <p class="mb-6 font-light md:text-lg">Mit körperorientierten Methoden wie Atemtechniken, Achtsamkeitsübungen oder Yoga nutzen wir in Einzelsitzungen die Weisheit deines Körpers, um Blockaden zu lösen. So wird der Körper zum Schlüssel für deine authentische Veränderung und dein Wachstum.</p><br>
           # Upload image to `assets/media/` and reference the filename here
           image: bewegung.png
     design:
