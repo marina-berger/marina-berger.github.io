@@ -19,11 +19,11 @@ main:
     weight: 31
   - name: Personal Coaching
     parent: coaching
-    url: /#coaching
+    url: /#personal-coaching
     weight: 32
   - name: Business Coaching
     parent: coaching
-    url: /#coaching
+    url: /#business-coaching
     weight: 33
   - name: Bewegung
     url: /#bewegung

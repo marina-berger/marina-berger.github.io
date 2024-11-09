@@ -71,7 +71,7 @@ sections:
             Meine Arbeit basiert auf der Metatheorie der Veränderung des Hephaistos Coaching Zentrums München. Diese theoretische Grundlage ermöglicht es mir, systemische und psychodynamische Methoden führender Schulen zu kombinieren und so einen effektiven Coaching-Ansatz zu bieten.<br><br>
           # Upload image to `assets/media/` and reference the filename here
           image: prozess-round.png
-        - title: Personal Coaching 
+        - title: Personal Coaching <a id="personal-coaching"></a>
           text: Immer mehr Menschen berichten, wie ihnen eine gezielte individuelle Unterstützung half, ihre privaten und beruflichen Chancen zu nutzen und ein erfülltes, selbstbestimmtes Leben zu führen.<br><br> Mein Personal Coaching bietet dir einen vertraulichen Rahmen, um dein Anliegen – sei es persönliche Weiterentwicklung, Beziehungsfragen, Krisenbewältigung oder Lebensbalance – gezielt zu klären.<br><br> Wir konzentrieren uns auf das, was dir wichtig ist – deine Wünsche und Bedürfnisse – und arbeiten mit dem, was du im Hier und Jetzt erlebst und ausdrückst. Gemeinsam beleuchten wir auch herausfordernde Aspekte, um herauszufinden, wie sie dich möglicherweise hemmen oder blockieren. So gewinnst du Klarheit über deine Situation und entwickelst neue Perspektiven, die deinen Handlungsspielraum erweitern und dich spürbare Fortschritte im Alltag erleben lassen.<br><br>
           # feature_icon: bolt
           # features:
@@ -83,7 +83,7 @@ sections:
           # button:
             # text: Join Discord
             # url: https://discord.gg/z8wNYzb
-        - title: Business Coaching
+        - title: Business Coaching <a id="business-coaching"></a>
           text: In einer dynamischen Arbeitswelt ist kontinuierliche Weiterentwicklung unerlässlich. Mein Business Coaching richtet sich an Fach- und Führungskräfte sowie Unternehmerinnen und Unternehmer, die sich beruflich weiterentwickeln und ihr Unternehmen auf das nächste Level bringen möchten.<br><br> Im Fokus steht die Selbstreflexion, um innere Muster zu erkennen und tiefgreifende Veränderungen zu bewirken. Ich unterstütze dich dabei, deine Stärken zu fördern und eine authentische Führungsidentität zu entwickeln. Mit gezielten Übungen gewinnst du innere Klarheit und erreichst deine Ziele effizienter.<br><br> Ich arbeite mit einem systemischen Ansatz, der die Wechselwirkungen und Dynamiken in deinem Unternehmen umfassend berücksichtigt. Auf diese Weise analysieren wir die innerbetrieblichen Prozesse und entwickeln darauf basierend Lösungen, die positive Veränderungen fördern.<br><br>
           # feature_icon: bolt
           # features:
