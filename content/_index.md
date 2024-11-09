@@ -64,11 +64,11 @@ sections:
       items:
         - title: Coaching
           text: |
-            **Hey. Schön, dass du da bist! <br> Willkommen auf deinem Weg der Selbstentfaltung.**<br><br>
+            <p class="mb-6 font-bold text-black md:text-lg">Hey. Schön, dass du da bist! <br> Willkommen auf deinem Weg der Selbstentfaltung.</p>
             
-            Als Coach ist es meine Aufgabe, Menschen auf ihrem Weg der persönlichen und beruflichen Entwicklung zu begleiten. Ein effektives Coaching setzt voraus, dass ich meine Klientinnen und Klienten ganzheitlich wahrnehme – mit ihrem Wesen, ihren individuellen Erfahrungen, ihren Stärken, ihren nonverbalen Signalen und ihren Herausforderungen. Auf dieser Basis kann ich kritisch hinterfragen, meine Irritationen benennen und gleichzeitig einfühlsam und zugewandt bleiben. Meine Erfahrung zeigt, dass jeder Mensch die notwendigen Antworten auf seine Herausforderungen bereits in sich trägt. Oft braucht es aber den gezielten Dialog und ein unterstützendes Gegenüber, um diese Antworten ans Licht zu bringen.<br><br>
+            <p class="mb-6 font-light md:text-lg">Als Coach ist es meine Aufgabe, Menschen auf ihrem Weg der persönlichen und beruflichen Entwicklung zu begleiten. Ein effektives Coaching setzt voraus, dass ich meine Klientinnen und Klienten ganzheitlich wahrnehme – mit ihrem Wesen, ihren individuellen Erfahrungen, ihren Stärken, ihren nonverbalen Signalen und ihren Herausforderungen. Auf dieser Basis kann ich kritisch hinterfragen, meine Irritationen benennen und gleichzeitig einfühlsam und zugewandt bleiben. Meine Erfahrung zeigt, dass jeder Mensch die notwendigen Antworten auf seine Herausforderungen bereits in sich trägt. Oft braucht es aber den gezielten Dialog und ein unterstützendes Gegenüber, um diese Antworten ans Licht zu bringen.</p>
             
-            Meine Arbeit basiert auf der Metatheorie der Veränderung des Hephaistos Coaching Zentrums München. Diese theoretische Grundlage ermöglicht es mir, systemische und psychodynamische Methoden führender Schulen zu kombinieren und so einen effektiven Coaching-Ansatz zu bieten.<br><br> <a id="personal-coaching"></a>
+            <p class="mb-6 font-light md:text-lg">Meine Arbeit basiert auf der Metatheorie der Veränderung des Hephaistos Coaching Zentrums München. Diese theoretische Grundlage ermöglicht es mir, systemische und psychodynamische Methoden führender Schulen zu kombinieren und so einen effektiven Coaching-Ansatz zu bieten.</p> <a id="personal-coaching"></a>
           # Upload image to `assets/media/` and reference the filename here
           image: prozess-round.png
         - title: Personal Coaching
@@ -120,7 +120,7 @@ sections:
       items:
         - title: Netzwerk
           text: |
-            <p class="mb-6 font-bold text-black md:text-lg">Hey. Hier ist mein Netzwerk!</p><br>
+            <p class="mb-6 font-bold text-black md:text-lg">Hey. Hier ist mein Netzwerk!</p>
             
             <p class="mb-6 font-light md:text-lg">
             Wachstum entsteht durch starke Verbindungen und gegenseitige Unterstützung. Mein Ziel ist es, ein vertrauensvolles Netzwerk aufzubauen, um gemeinsam Herausforderungen zu meistern und nachhaltige Erfolge zu erzielen. Netzwerken bedeutet für mich, langfristige Beziehungen zu pflegen, regelmäßige Treffen zu fördern und kontinuierlich im Austausch zu stehen, um voneinander zu lernen und zu wachsen.<br></p>
