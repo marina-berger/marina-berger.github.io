@@ -120,14 +120,14 @@ sections:
       items:
         - title: Netzwerk
           text: |
-            <p class="mb-6 font-bold text-black md:text-lg">Hey. Hier ist mein Netzwerk!</p><br><br>
+            <p class="mb-6 font-bold text-black md:text-lg">Hey. Hier ist mein Netzwerk!</p><br>
             
             <p class="mb-6 font-light md:text-lg">
-            Wachstum entsteht durch starke Verbindungen und gegenseitige Unterstützung. Mein Ziel ist es, ein vertrauensvolles Netzwerk aufzubauen, um gemeinsam Herausforderungen zu meistern und nachhaltige Erfolge zu erzielen. Netzwerken bedeutet für mich, langfristige Beziehungen zu pflegen, regelmäßige Treffen zu fördern und kontinuierlich im Austausch zu stehen, um voneinander zu lernen und zu wachsen.<br><br></p>
+            Wachstum entsteht durch starke Verbindungen und gegenseitige Unterstützung. Mein Ziel ist es, ein vertrauensvolles Netzwerk aufzubauen, um gemeinsam Herausforderungen zu meistern und nachhaltige Erfolge zu erzielen. Netzwerken bedeutet für mich, langfristige Beziehungen zu pflegen, regelmäßige Treffen zu fördern und kontinuierlich im Austausch zu stehen, um voneinander zu lernen und zu wachsen.<br></p>
             <p class="mb-6 font-light md:text-lg">
-            Zur Erweiterung meiner Expertise bilde ich mich an renommierten Schulen fort und nehme regelmäßig an Supervisionen teil. Dadurch erhalte ich wertvolle Impulse und neue Perspektiven. Besonders wichtig ist mir der Austausch mit den Kolleginnen und Kollegen des Hephaistos Coaching Zentrums München, die sich durch einen reflektierten und praxisnahen Ansatz auszeichnen. Das hilft mir, aktuelle Herausforderungen besser zu verstehen und innovative Lösungen zu entwickeln.<br><br></p>
+            Zur Erweiterung meiner Expertise bilde ich mich an renommierten Schulen fort und nehme regelmäßig an Supervisionen teil. Dadurch erhalte ich wertvolle Impulse und neue Perspektiven. Besonders wichtig ist mir der Austausch mit den Kolleginnen und Kollegen des Hephaistos Coaching Zentrums München, die sich durch einen reflektierten und praxisnahen Ansatz auszeichnen. Das hilft mir, aktuelle Herausforderungen besser zu verstehen und innovative Lösungen zu entwickeln.<br></p>
             <p class="mb-6 font-light md:text-lg">
-            Denn Lernen hört nie auf! Die kontinuierliche Weiterentwicklung meiner Fähigkeiten ist entscheidend, um optimal auf individuelle Bedürfnisse einzugehen und effektive Veränderungsprozesse zu fördern.<br><br></p>
+            Denn Lernen hört nie auf! Die kontinuierliche Weiterentwicklung meiner Fähigkeiten ist entscheidend, um optimal auf individuelle Bedürfnisse einzugehen und effektive Veränderungsprozesse zu fördern.<br></p>
           # Upload image to `assets/media/` and reference the filename here
           image: meta-theorie.png
           button:
