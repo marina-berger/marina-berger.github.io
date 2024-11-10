@@ -127,7 +127,8 @@ sections:
             <p class="mb-6 font-light md:text-lg">
             Zur Erweiterung meiner Expertise bilde ich mich an renommierten Schulen fort und nehme regelmäßig an Supervisionen teil. Dadurch erhalte ich wertvolle Impulse und neue Perspektiven. Besonders wichtig ist mir der Austausch mit den Kolleginnen und Kollegen des Hephaistos Coaching Zentrums München, die sich durch einen reflektierten und praxisnahen Ansatz auszeichnen. Das hilft mir, aktuelle Herausforderungen besser zu verstehen und innovative Lösungen zu entwickeln.<br></p>
             <p class="mb-6 font-light md:text-lg">
-            Denn Lernen hört nie auf! Die kontinuierliche Weiterentwicklung meiner Fähigkeiten ist entscheidend, um optimal auf individuelle Bedürfnisse einzugehen und effektive Veränderungsprozesse zu fördern.<br></p>
+            Denn Lernen hört nie auf! Die kontinuierliche Weiterentwicklung meiner Fähigkeiten ist entscheidend, um optimal auf individuelle Bedürfnisse einzugehen und effektive Veränderungsprozesse zu fördern.<br>
+            Möchtest du mehr zur Metatheorie der Veränderung wissen? Dann folge gerne dem Link.</p>
           # Upload image to `assets/media/` and reference the filename here
           image: meta-theorie.png
           button:
