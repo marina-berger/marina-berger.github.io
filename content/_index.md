@@ -51,7 +51,7 @@ sections:
             
             <p class="mb-6 font-light md:text-lg">Wenn das passiert, wird für mich der schönste Teil meiner Arbeit sichtbar: Ich sehe die strahlenden Augen meiner Klientinnen und Klienten und erkenne ihre neu gewonnene innere Freiheit. Diese Momente zeigen mir, wie erfüllend und transformierend der Coaching-Prozess sein kann.</p>
 
-            <p class="mb-6 font-light md:text-lg">Möchtest du mehr über mich wissen? Sieh dir gerne mein Kurzprofil an.</p>
+            <p class="mb-6 font-light md:text-lg">Du möchtest mehr über mich erfahren? Hier ist der Link zu meinem Kurzprofil.</p>
           # Upload image to `assets/media/` and reference the filename here
           image: about-me-a.jpeg
           button:
