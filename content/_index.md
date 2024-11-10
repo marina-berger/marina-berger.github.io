@@ -50,6 +50,8 @@ sections:
             <p class="mb-6 font-light md:text-lg">In meiner Arbeit lege ich großen Wert auf Empathie, Genauigkeit und eine fundierte, praxisorientierte Herangehensweise. Ich glaube daran, dass die Antworten auf deine Fragen bereits in dir selbst liegen. Mein Ansatz besteht darin, dir durch eine wertfreie, offene und individuelle Begleitung zu helfen, diesen inneren Schatz zu heben und zu nutzen. Indem du lernst, deine Bedürfnisse achtsam wahrzunehmen und danach zu handeln, stärkst du deine Selbstverantwortung.</p>
             
             <p class="mb-6 font-light md:text-lg">Wenn das passiert, wird für mich der schönste Teil meiner Arbeit sichtbar: Ich sehe die strahlenden Augen meiner Klientinnen und Klienten und erkenne ihre neu gewonnene innere Freiheit. Diese Momente zeigen mir, wie erfüllend und transformierend der Coaching-Prozess sein kann.</p>
+
+            <p class="mb-6 font-light md:text-lg">Möchtest du mehr über mich wissen? Sieh dir gerne mein Kurzprofil an.</p>
           # Upload image to `assets/media/` and reference the filename here
           image: about-me-a.jpeg
           button:
