@@ -40,7 +40,7 @@ header:
     button:
       enable: true
       text: "Schreib mir"
-      url: "mailto:hey.marinaberger@gmail.com"
+      url: "mailto:kontakt@marina-berger.de"
     show_search: false
     show_theme_chooser: false
 
