@@ -146,7 +146,7 @@ sections:
       text: Gerne erkläre ich dir in einem unverbindlichen Erstgespräch meine Arbeitsweise und den Ablauf eines Coachings.<br><br> Du kannst mich gerne telefonisch oder per E-Mail kontaktieren, in der Regel antworte ich innerhalb von drei Werktagen.<br><br> Ich freue mich darauf, dich kennenzulernen!
       button:
         text: Schreib mir
-        url: mailto:hey.marinaberger@gmail.com
+        url: mailto:kontakt@marina-berger.de
     design:
       card:
         # Card background color (CSS class)
