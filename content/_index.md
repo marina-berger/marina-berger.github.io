@@ -53,7 +53,7 @@ sections:
 
             <p class="mb-6 font-light md:text-lg">Du möchtest mehr über mich erfahren? Hier ist der Link zu meinem Kurzprofil.</p>
           # Upload image to `assets/media/` and reference the filename here
-          image: about-me-a.jpeg
+          image: about-me.jpg
           button:
             text: Kurzprofil
             url: https://drive.google.com/file/d/1oxKMQgf4QigtsBjOKhDj8mw_g78E0RUv/view?usp=sharing
@@ -112,7 +112,7 @@ sections:
             
             <p class="mb-6 font-light md:text-lg">Mit körperorientierten Methoden wie Atemtechniken, Achtsamkeitsübungen oder Yoga nutzen wir in Einzelsitzungen die Weisheit deines Körpers, um Blockaden zu lösen. So wird der Körper zum Schlüssel für deine authentische Veränderung und dein Wachstum.</p>
           # Upload image to `assets/media/` and reference the filename here
-          image: bewegung.png
+          image: bewegung.jpg
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
