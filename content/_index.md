@@ -106,7 +106,7 @@ sections:
       items:
         - title: Bewegung
           text: |
-            <p class="mb-6 font-bold text-black md:text-lg">«Der Körper sagt, was Worte nicht ausdrücken können» Martha Grahams.</p>
+            <p class="mb-6 font-bold text-black md:text-lg">«Der Körper sagt, was Worte nicht ausdrücken können.» Martha Grahams</p>
             
             <p class="mb-6 font-light md:text-lg">In Coaching-Prozessen stoßen wir oft an die Grenzen des Verstandes. Manchmal reichen Worte allein nicht aus, um tiefsitzende Gefühle oder blockierende Muster zu lösen. Es sind die Momente, in denen Gespräche ins Leere laufen oder festgefahrene Denkmuster uns daran hindern, weiterzukommen. Hier ist es wichtig, dass wir den Körper in den Coaching-Prozess einbeziehen. Denn der Körper vergisst nicht.</p>
             
