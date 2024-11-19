@@ -28,7 +28,7 @@ Der Verantwortliche für die Datenverarbeitung auf dieser Website ist:
 Marina Berger,
 Tegernseer Landstr. 125A,
 81539 München,
-E-Mail: hey.marinaberger@gmail.com
+E-Mail: kontakt@marina-berger.de
 
 ## 2. Name und Anschrift des Datenschutzbeauftragten
 
@@ -37,7 +37,7 @@ Datenschutzbeauftragter für diese Website ist der Betreiber der Website:
 Marina Berger,
 Tegernseer Landstr. 125A,
 81539 München,
-E-Mail: hey.marinaberger@gmail.com
+E-Mail: kontakt@marina-berger.de
 
 ## 3. Allgemeines zur Datenverarbeitung
 

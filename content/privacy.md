@@ -7,7 +7,7 @@ share: false
 Marina Berger,
 Tegernseer Landstr. 125A,
 81539 München,
-E-Mail: hey.marinaberger@gmail.com
+E-Mail: kontakt@marina-berger.de
 
 Steuernummer 144/139/41777
 
