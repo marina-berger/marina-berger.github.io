@@ -143,7 +143,7 @@ sections:
     id: kontakt
     content:
       title: Schön, dass du dich meldest!
-      text: Gerne erkläre ich dir in einem unverbindlichen Erstgespräch meine Arbeitsweise und den Ablauf eines Coachings.<br><br> Du kannst mich gerne telefonisch oder per E-Mail kontaktieren, in der Regel antworte ich innerhalb von drei Werktagen.<br><br> Ich freue mich darauf, dich kennenzulernen!
+      text: Gerne erkläre ich dir in einem unverbindlichen Erstgespräch meine Arbeitsweise und den Ablauf eines Coachings.<br><br> Du kannst mich gerne telefonisch oder per E-Mail kontaktieren, in der Regel antworte ich innerhalb von drei Werktagen.<br><br> Meine Coaching-Räume befinden sich im Zentrum von München.<br><br> Ich freue mich darauf, dich kennenzulernen!
       button:
         text: Schreib mir
         url: mailto:kontakt@marina-berger.de
